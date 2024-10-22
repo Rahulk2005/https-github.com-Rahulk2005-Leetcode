@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
