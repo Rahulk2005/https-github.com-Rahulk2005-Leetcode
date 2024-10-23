@@ -53,4 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
