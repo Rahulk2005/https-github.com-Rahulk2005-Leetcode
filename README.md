@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -66,9 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
+## Array
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
