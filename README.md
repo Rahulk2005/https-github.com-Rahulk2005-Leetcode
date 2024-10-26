@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/3447-clear-digits) |
