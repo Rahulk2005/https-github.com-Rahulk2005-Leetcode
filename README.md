@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -109,12 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Sorting
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
