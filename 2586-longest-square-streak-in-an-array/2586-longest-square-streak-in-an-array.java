@@ -1,5 +1,6 @@
 class Solution {
     public int longestSquareStreak(int[] nums) {
+        // 2 3 4 6 8 16
         Map<Integer, Integer> map = new HashMap<>();
         Arrays.sort(nums);
         int ans=-1;
