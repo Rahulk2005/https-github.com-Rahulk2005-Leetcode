@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
 | [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
@@ -156,4 +158,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
