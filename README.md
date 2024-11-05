@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
