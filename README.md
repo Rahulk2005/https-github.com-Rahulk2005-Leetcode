@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -147,9 +149,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
