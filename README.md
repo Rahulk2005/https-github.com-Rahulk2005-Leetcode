@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0055-jump-game) |
 | [0493-reverse-pairs](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0493-reverse-pairs) |
 | [1039-find-the-town-judge](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0062-unique-paths) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Graph
 |  |
