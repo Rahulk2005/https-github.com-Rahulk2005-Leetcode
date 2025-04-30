@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/0062-unique-paths) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rahulk2005/https-github.com-Rahulk2005-Leetcode/tree/master/2554-minimum-total-distance-traveled) |
